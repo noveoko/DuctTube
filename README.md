@@ -1,6 +1,6 @@
-# YouTubeFocus
+# DuctTube
 
-YouTubeFocus is a Chrome extension designed to enhance focus and reduce distractions while using YouTube. It gives you control over your YouTube experience by filtering out unwanted content, reducing clickbait, and providing tools to manage your viewing habits.
+DuctTube is a Chrome extension designed to enhance focus and reduce distractions while using YouTube. It gives you control over your YouTube experience by filtering out unwanted content, reducing clickbait, and providing tools to manage your viewing habits.
 
 ![YouTubeFocus Screenshot](duck_tube_logo.png)
 
