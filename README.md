@@ -1,3 +1,5 @@
+![Yellow Duck with Blue Ducktape on Beak](https://github.com/noveoko/DucTube/YoutubeADD/icon.png)
+
 # Ductube - Tame Your Social Media Feeds
 
 **Ductube** is a browser extension designed to give you control over your social media experience. It's a collection of content filters that allows you to selectively hide annoying or distracting elements from various platforms, starting with YouTube.
