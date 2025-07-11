@@ -1,4 +1,4 @@
-![Yellow Duck with Blue Ducktape on Beak](YoutubeADD/icon.png)
+<img src="YoutubeADD/icon.png" alt="Yellow Duck with Blue Ducktape on Beak" width="200"/>
 
 # Ductube - Tame Your Social Media Feeds
 
