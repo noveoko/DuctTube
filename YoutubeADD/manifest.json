@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Ductube: YouTube ADD",
+  "version": "1.0",
+  "description": "Hides all YouTube Shorts videos, leaving other content visible.",
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": ["*://*.youtube.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
